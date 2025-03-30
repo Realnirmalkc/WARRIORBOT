@@ -1,0 +1,7 @@
+// config.json
+{
+  "token": "YOUR_BOT_TOKEN",
+  "prefix": "/",
+  "supportRole": "SUPPORT_ROLE_ID",
+  "welcomeChannel": "WELCOME_CHANNEL_ID"
+}
